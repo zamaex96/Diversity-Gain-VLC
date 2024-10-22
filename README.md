@@ -30,3 +30,10 @@ The `main.c` file serves as the main program body for an STM32 microcontroller-b
 
 This software is licensed under terms that can be found in the LICENSE file in the root directory of this software component.
 
+<div align="center">
+  <a href="https://maazsalman.org/">
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />
+  </a>
+  <p> Explore More! 🚀</p>
+</div>
+
